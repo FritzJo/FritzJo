@@ -1,6 +1,6 @@
 ## Hi there 🙌
 ### About Me
-My name is Fritz from Germany! 🇩🇪
+My name is Fritz and I'm from Germany! 🇩🇪
 
 I'm a Cloud Solution Architect, but also working on my DevOps skills. I've been a long time Linux user and open source enthusiast. [Check out my homepage](https://example.org) if you want to know more or get in touch with me!
 
