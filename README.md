@@ -13,7 +13,7 @@ I'm a Cloud Solution Architect, but also working on my DevOps skills. I've been 
 
 ⚙️ Automation (Ansible, Terraform, Bash)
 
-📚 Databases (MySQL, Postgres, MongoDB)
+📚 Databases (Postgres, MongoDB)
 
 ⌨️ Programming Languages (Python, Golang, Java, Typescript/React)
 
